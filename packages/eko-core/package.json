@@ -50,7 +50,7 @@
     "@openrouter/ai-sdk-provider": "^0.7.2",
     "secure-json-parse": "^4.0.0",
     "xmldom": "^0.6.0",
-    "zod": "^3.21.4"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^28.0.3",
